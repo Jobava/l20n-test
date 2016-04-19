@@ -1,0 +1,6 @@
+workflow.txt
+.git
+.svn
+nenv
+node_modules
+venv
